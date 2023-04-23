@@ -8,4 +8,4 @@ Contact: trucpham.work@gmail.com
 ## IMAGE:
 ![home](https://github.com/TrucPham0502/MoviesTP/blob/main/1.png)
 ![Info](https://github.com/TrucPham0502/MoviesTP/blob/main/2.png)
-![player](https://github.com/TrucPham0502/MoviesTP/blob/main/3.png)
+![player](https://github.com/TrucPham0502/MoviesTP/blob/main/3.PNG)
