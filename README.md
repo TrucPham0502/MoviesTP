@@ -6,6 +6,6 @@ Contact: trucpham.work@gmail.com
 
 
 ## IMAGE:
-![home](https://github.com/TrucPham0502/MoviesTP/blob/TypeScript/1.png)
-![Info](https://github.com/TrucPham0502/MoviesTP/blob/TypeScript/2.png)
-![card](https://github.com/TrucPham0502/MoviesTP/blob/TypeScript/3.png)
+![home](https://github.com/TrucPham0502/MoviesTP/blob/main/1.png)
+![Info](https://github.com/TrucPham0502/MoviesTP/blob/main/2.png)
+![player](https://github.com/TrucPham0502/MoviesTP/blob/main/3.png)
