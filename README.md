@@ -9,3 +9,5 @@ Contact: trucpham.work@gmail.com
 ![home](https://github.com/TrucPham0502/MoviesTP/blob/main/1.png)
 ![Info](https://github.com/TrucPham0502/MoviesTP/blob/main/2.png)
 ![player](https://github.com/TrucPham0502/MoviesTP/blob/main/3.PNG)
+![widger lockscreen](https://github.com/TrucPham0502/MoviesTP/blob/main/4.PNG)
+![widger](https://github.com/TrucPham0502/MoviesTP/blob/main/5.PNG)
